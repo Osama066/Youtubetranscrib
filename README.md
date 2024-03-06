@@ -23,4 +23,3 @@ The application will extract the transcript of the video and generate detailed n
 
 
 
-![image](https://github.com/Osama066/Youtubetranscrib/assets/109853647/22d99145-640e-4919-8502-25bcec32c3fb)
