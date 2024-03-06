@@ -7,7 +7,7 @@ This is a Streamlit web application that takes a YouTube video link as input, ex
 
 1. Install the required packages:
    ```bash
-   pip install streamlit python-dotenv google-generativeai youtube-transcript-api
+   pip install streamlit python-dotenv google-generativeai youtube-transcript-api 
 Set up your Google API key:
 
 Create a .env file in the root directory of your project.
@@ -22,4 +22,5 @@ Click on the "Get Detailed Notes" button.
 The application will extract the transcript of the video and generate detailed notes summarizing the content.
 
 
-![Image Description](path/to/image.png)
+
+![image](https://github.com/Osama066/Youtubetranscrib/assets/109853647/22d99145-640e-4919-8502-25bcec32c3fb)
